@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Blue Ham
+title: Aissatou Diallo
 description: Blue Ham is a PhD candidate at Broom University. 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
@@ -14,7 +14,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
