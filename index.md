@@ -25,7 +25,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Aissatou Diallo" alt="Aissatou Diallo"/></a>
         </div>
     </div>
 </div>
