@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Aissatou Diallo
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+#description: Blue Ham is a PhD candidate at Broom University. 
+#keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
 I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
@@ -18,7 +18,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+            Aissatou Diallo<br/>
             Email: WOOFWOOF@goodboy.com<br/>
         </div>
 
