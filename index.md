@@ -37,9 +37,10 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
           <li>2011 - 2013, BSc. in Biomedical Engineering, Politecnico di Milano, Italy</li>
         </ul>
         </div>
-    You can fine my full resumé [here ![CV as pdf]]({{ BASE_PATH }}/assets/CV.pdf)<br/>.
 
     </div>
+    You can fine my full resumé [here ![CV as pdf]]({{ BASE_PATH }}/assets/CV.pdf)<br/>.
+
 </div>
 
 <div class="container">
