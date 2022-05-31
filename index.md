@@ -13,7 +13,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
 ---
 
 <div class="container">
-<h4><a name="Contact"></a>Research Interests</h4>
+<h4><a name="research"></a>Research Interests</h4>
 
     <div class="row-fluid">
         <div class="span5">
@@ -23,6 +23,21 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
     </div>
 </div>
 
+
+<div class="container">
+<h4><a name="education"></a>Education</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+          <ul>
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ul>
+        </div>
+
+    </div>
+</div>
 
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
