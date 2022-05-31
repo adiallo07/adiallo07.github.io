@@ -17,7 +17,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
 
     <div class="row-fluid">
         <div class="span5">
-            During my PhD, my main research interest focused on representation learning. In particular, how to learn appropriate representation for complex data and or in non standard setting. I have also worked a bit on analogical reasoning and learning to rank. <br/>
+            During my PhD, my main research interest focused on representation learning. Particularly, how to learn appropriate representation for complex data and or in non standard setting. I have also worked a bit on analogical reasoning and learning to rank. <br/>
             Recently, I started working on neuro-symbolic reasoning, program synthesis, particularly on program induction from natural language and more applied topics targeting the theory of repurposing. <br/>
         </div>
     </div>
@@ -33,11 +33,6 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
             Email: WOOFWOOF@goodboy.com<br/>
         </div>
 
-        <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Aissatou Diallo" alt="Aissatou Diallo"/></a>
-        </div>
     </div>
 </div>
 
@@ -46,7 +41,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <!--<li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>-->
       </ul>
   </div>
 </div>
