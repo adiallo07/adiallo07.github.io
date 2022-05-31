@@ -41,21 +41,26 @@ You can fine my full resumé [here.]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 <div class="container">
-<h4><a name="Contact"></a>Contact</h4>
+<h4><a name="Contact"></a>Publications</h4>
 
-    <div class="row-fluid">
+        <div class="row-fluid">
         <div class="span5">
-            Aissatou Diallo<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+          <ul>
+          <li>2022 - present, Research Fellow in AI, Department of Computer Science, UCL, United Kingdom</li>
+          <li>2018 - 2021, PhD student in the Department of Computer Science under the supervision of Johannes Fürnkranz, TU Darmstadt, Germany</li>
+          <li>2015 - 2017, MSc. in Engineering, CentraleSupélec, France</li>
+          <li>2013 - 2015, MSc. in Engineering, Arts et Métiers, France</li>
+          <li>2011 - 2013, BSc. in Biomedical Engineering, Politecnico di Milano, Italy</li>
+        </ul>
         </div>
 
     </div>
+    
 </div>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
           <!--<li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>-->
       </ul>
