@@ -40,7 +40,7 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I 
 
     </div>
 </div>
-You can fine my full resumé [here ![CV as pdf]]({{ BASE_PATH }}/assets/CV.pdf)<br/>.
+You can fine my full resumé [here.]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 <div class="container">
