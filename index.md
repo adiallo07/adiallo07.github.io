@@ -13,12 +13,12 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
 ---
 
 <div class="container">
-<h4><a name="Contact"></a>About me</h4>
+<h4><a name="Contact"></a>Research Interests</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Aissatou Diallo<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            During my PhD, my main research interest focused on representation learning. In particular, how to learn appropriate representation for complex data and or in non standard setting. I have also worked a bit on analogical reasoning and learning to rank. <br/>
+            Recently, I started working on neuro-symbolic reasoning, program synthesis, particularly on program induction from natural language and more applied topics targeting the theory of repurposing. <br/>
         </div>
     </div>
 </div>
