@@ -5,7 +5,7 @@ title: Aissatou Diallo
 #keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
+I recently finished my PhD in Machine Learning at TU Darmstadt, Germany where I worked under the supervision of Johannes Fürnkranz. In March 2022, I started a PostDoc at the Computer Science department at UCL working on machine learning applied to the task of repurposing.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
