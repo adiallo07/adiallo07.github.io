@@ -12,6 +12,23 @@ I recently finished my PhD in Machine Learning at TU Darmstadt, Germany.
 
 ---
 
+<div class="container">
+<h4><a name="Contact"></a>About me</h4>
+
+    <div class="row-fluid">
+        <div class="span5">
+            Aissatou Diallo<br/>
+            Email: WOOFWOOF@goodboy.com<br/>
+        </div>
+
+        <div class="span2">
+        <a href="../assets/headshot.jpg">
+            <img src="../assets/headshot.jpg"
+                  title="Aissatou Diallo" alt="Aissatou Diallo"/></a>
+        </div>
+    </div>
+</div>
+
 
 <div class="container">
 <h4><a name="Contact"></a>Contact</h4>
